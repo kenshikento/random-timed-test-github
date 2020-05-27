@@ -12,4 +12,5 @@ Just Api clone of github data
 
 PHP Unit 
 
-
+## Run Locally
+`php -S localhost:8000 -t public`
